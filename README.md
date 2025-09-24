@@ -5,14 +5,6 @@ _— relaxed by nature, serious at work._
 
 ---
 
-## 🎨 Aesthetic / Theme
-Soft light-blue palette, minimal layout, and gentle animations to keep viewers engaged and comfortable.
-
-> Primary color: `#4FC3F7` (light sky blue)  
-> Accent: `#1E88E5` (medium blue)
-
----
-
 ## 🔹 About Me
 - **Username:** `atibr25`  
 - **Style:** calm, approachable, detail-oriented  
