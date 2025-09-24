@@ -18,7 +18,6 @@ _— relaxed by nature, serious at work._
 ![HTML](https://img.shields.io/badge/HTML5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -63,7 +62,7 @@ I like calm motion — here are a few lightweight animations you can include or 
 ---
 
 ## 📬 Contact & Social
-- **Email:** `your.email@example.com`  
+- **Email:** `atibfis719@gmail.com`  
 - **LinkedIn:** add your profile link  
 - **Twitter:** add your handle (optional)
 
