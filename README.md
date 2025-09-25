@@ -1,4 +1,4 @@
-# <img alt="wave" src="https://raw.githubusercontent.com/atibr25/atibr25/main/assets/wave.png" width="36"/> hi, i'm **atibr25**
+# Hi, i'm **atibr25**
 _— relaxed by nature, serious at work._
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=2000&color=4FC3F7&width=600&lines=Building+clean+code+%7C+Designing+minimal+UIs+%7C+Learning+every+day)
@@ -67,21 +67,3 @@ I like calm motion — here are a few lightweight animations you can include or 
 - **Twitter:** add your handle (optional)
 
 ---
-
-## 🧭 How to customize (quick)
-1. Create a repo named exactly `atibr25` (same as your username).  
-2. Add this `README.md` into the repo root and push.  
-3. Replace placeholder links, add real project links and an `assets/` folder (for small animated GIFs or svgs).  
-4. To change the blue theme, edit the `color` query param on shields or swap the `theme` for the stat cards.
-
----
-
-## ⚡ Quick copy snippet — header only (if you prefer a compact look)
-
-```md
-# atibr25
-_— relaxed, serious at work_
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=2000&color=4FC3F7&width=600&lines=Building+clean+code+%7C+Designing+minimal+UIs+%7C+Learning+every+day)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=atibr25&theme=blueberry&show_icons=true)](https://github.com/atibr25)
